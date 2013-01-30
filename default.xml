@@ -364,7 +364,7 @@ fetch="https://github.com/" />
   <project path="vendor/vanilarootbox" name="vendor_vanilarootbox" remote="vanilarootbox" revision="jb-mr1" />
   <project path="vendor/samsung" name="vendor_samsung" remote="vanilarootbox" revision="jb-mr1" />
 
-  <project path="packages/wallpapers/SwagPapers" name="vanilarootbox_wallpapers" remote="vanilarootbox" revision="jb-mr1" />
+  <project path="packages/wallpapers/SwagPapers" name="RootBox_wallpapers" remote="vanilarootbox" revision="jb-mr1" />
 
   <project path="platform_manifest" name="platform_manifest" remote="vanilarootbox" revision="jb-mr1" />
 </manifest>
